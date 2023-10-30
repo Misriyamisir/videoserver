@@ -1,0 +1,20 @@
+json server creation in node
+
+
+
+provide automatic recompailation-nodemon
+
+middlewares
+middlewares have the ebility to control all server request in a server
+if we apply middlewares in server , the middlewares will work before the request
+
+cores-cross engine resource sharing
+connect front-end with node server --- npm i cors
+
+
+dragging events
+-->onDragStart
+-->onDragOver
+-->onDrop
+we need to use it at a time 
+event with target value

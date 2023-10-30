@@ -1,0 +1,176 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "animation",
+      "cover_image": "https://i.postimg.cc/qqfddhtk/depositphotos-78821086-stock-illustration-fairy-tale-house-in-the.png",
+      "video_url": "https://www.youtube.com/embed/2REkk9SCRn0?autoplay=1"
+    },
+    {
+      "id": "lnwn0zqv",
+      "caption": "kerala traditional cuisine",
+      "cover_image": "https://assets.traveltriangle.com/blog/wp-content/uploads/2017/10/kerala-food.jpg",
+      "video_url": "https://www.youtube.com/embed/7xAzLyzd2h8?autoplay=1"
+    },
+    {
+      "id": 4,
+      "caption": "The festival of abundance",
+      "cover_image": "https://i.natgeofe.com/n/959eb04a-010b-48d7-8a51-1711d781d6d1/diwali-lanterns-rts2t3o5_4x3.jpg",
+      "video_url": "https://www.youtube.com/embed/iUeb9egLfdA?autoplay=1"
+    },
+    {
+      "id": "lnwod4ih",
+      "caption": "Kerala Tourism",
+      "cover_image": "https://www.holidaymonk.com/wp-content/uploads/2022/07/Kerala-India-Tourism-1024x764.webp",
+      "video_url": "https://www.youtube.com/embed/yLE5bDX7M3Y?autoplay=1"
+    },
+    {
+      "id": 5,
+      "caption": "kun faya kun song",
+      "cover_image": "https://i.ytimg.com/vi/T94PHkuydcw/sddefault.jpg",
+      "video_url": "https://www.youtube.com/embed/T94PHkuydcw?autoplay=1"
+    },
+    {
+      "id": "lo82g4gy",
+      "caption": "japan vs usa|volleyball",
+      "cover_image": "https://i.ytimg.com/vi/XNTMNVwDRhQ/maxresdefault.jpg",
+      "video_url": "https://www.youtube.com/embed/KPHit8kfgMQ?autoplay=1"
+    },
+    {
+      "id": "lo82jcj5",
+      "caption": "Computer basics",
+      "cover_image": "https://i.ytimg.com/vi/Cu3R5it4cQs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/embed/Cu3R5it4cQs?autoplay=1"
+    },
+    {
+      "id": 6,
+      "caption": "Basic Guitar Chords",
+      "cover_image": "https://i.ytimg.com/vi/M4nxZ5UGgr0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/embed/rTMN8rCBWkw&t=38s?autoplay=1"
+    },
+    {
+      "id": "lobj2slp",
+      "caption": "THE ALCHEMISTS",
+      "cover_image": "https://i.ytimg.com/vi/SpJgSYvMEYI/hqdefault.jpg?v=65296130",
+      "video_url": "https://www.youtube.com/embed/SpJgSYvMEYI?autoplay=1"
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "education",
+      "videos": [
+        {
+          "id": "lo82jcj5",
+          "caption": "Computer basics",
+          "cover_image": "https://i.ytimg.com/vi/Cu3R5it4cQs/hqdefault.jpg",
+          "video_url": "https://www.youtube.com/embed/Cu3R5it4cQs?autoplay=1"
+        },
+        {
+          "id": 6,
+          "caption": "Basic Guitar Chords",
+          "cover_image": "https://i.ytimg.com/vi/M4nxZ5UGgr0/hqdefault.jpg",
+          "video_url": "https://www.youtube.com/embed/rTMN8rCBWkw&t=38s?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": "lo58qdlg",
+      "name": "sports",
+      "videos": [
+        {
+          "id": "lo82g4gy",
+          "caption": "japan vs usa|volleyball",
+          "cover_image": "https://i.ytimg.com/vi/XNTMNVwDRhQ/maxresdefault.jpg",
+          "video_url": "https://www.youtube.com/embed/KPHit8kfgMQ?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": "lo58u4a5",
+      "name": "culture",
+      "videos": [
+        {
+          "id": 4,
+          "caption": "The festival of abundance",
+          "cover_image": "https://i.natgeofe.com/n/959eb04a-010b-48d7-8a51-1711d781d6d1/diwali-lanterns-rts2t3o5_4x3.jpg",
+          "video_url": "https://www.youtube.com/embed/iUeb9egLfdA?autoplay=1"
+        },
+        {
+          "id": "lnwn0zqv",
+          "caption": "kerala traditional cuisine",
+          "cover_image": "https://assets.traveltriangle.com/blog/wp-content/uploads/2017/10/kerala-food.jpg",
+          "video_url": "https://www.youtube.com/embed/7xAzLyzd2h8?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "A R Rahman",
+      "videos": [
+        {
+          "id": 5,
+          "caption": "kun faya kun song",
+          "cover_image": "https://i.ytimg.com/vi/T94PHkuydcw/sddefault.jpg",
+          "video_url": "https://www.youtube.com/embed/T94PHkuydcw?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Animation",
+      "videos": [
+        {
+          "id": "lobj2slp",
+          "caption": "THE ALCHEMISTS",
+          "cover_image": "https://i.ytimg.com/vi/SpJgSYvMEYI/hqdefault.jpg?v=65296130",
+          "video_url": "https://www.youtube.com/embed/SpJgSYvMEYI?autoplay=1"
+        },
+        {
+          "id": 1,
+          "caption": "animation",
+          "cover_image": "https://i.postimg.cc/qqfddhtk/depositphotos-78821086-stock-illustration-fairy-tale-house-in-the.png",
+          "video_url": "https://www.youtube.com/embed/2REkk9SCRn0?autoplay=1"
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "id": "lo6ob8nc",
+      "video_title": "Kerala Tourism",
+      "url": "https://www.youtube.com/embed/yLE5bDX7M3Y?autoplay=1",
+      "date": "2023-10-26 9:47:34 AM"
+    },
+    {
+      "id": "lo6obvab",
+      "video_title": "The festival of abundance",
+      "url": "https://www.youtube.com/embed/iUeb9egLfdA?autoplay=1",
+      "date": "2023-10-26 9:48:03 AM"
+    },
+    {
+      "id": "lo7gbdx4",
+      "video_title": "animation",
+      "url": "https://www.youtube.com/embed/2REkk9SCRn0?autoplay=1",
+      "date": "2023-10-26 10:51:30 PM"
+    },
+    {
+      "id": "lo7gc186",
+      "video_title": "Kerala Tourism",
+      "url": "https://www.youtube.com/embed/yLE5bDX7M3Y?autoplay=1",
+      "date": "2023-10-26 10:52:00 PM"
+    },
+    {
+      "id": "lo84188i",
+      "video_title": "animation",
+      "url": "https://www.youtube.com/embed/2REkk9SCRn0?autoplay=1",
+      "date": "2023-10-27 9:55:27 AM"
+    },
+    {
+      "id": "lobj6gfv",
+      "video_title": "The festival of abundance",
+      "url": "https://www.youtube.com/embed/iUeb9egLfdA?autoplay=1",
+      "date": "2023-10-29 7:22:43 PM"
+    }
+  ]
+}
